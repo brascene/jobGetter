@@ -1,0 +1,47 @@
+{
+	"jobs": 
+	[
+		{
+		    "_id" : "uW8bKtSr6GrSnzHu4",
+		    "jobDescription" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		    "jobType" : "JS Software Developer",
+		    "jobLocation" : "Sarajevo, Bosna i Hercegovina",
+		    "remoteWork" : false,
+		    "experationDate" : "2018-01-17T23:00:00.000Z",
+		    "createdAt" : "2017-12-06T17:03:50.539Z",
+		    "createdBy" : "Fuqf5EfK8xFZGe4w6",
+		    "modifiedAt" : "2018-02-04T15:06:04.224Z",
+		    "modifiedBy" : "Fuqf5EfK8xFZGe4w6",
+		    "ownerId" : "Fuqf5EfK8xFZGe4w6",
+			"didFinishedInteriew": false
+		},
+		{
+		    "_id" : "uW8bKtSr6GrSnzHu5",
+		    "jobDescription" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		    "jobType" : "iOS Software Developer",
+		    "jobLocation" : "Sarajevo, Bosna i Hercegovina",
+		    "remoteWork" : false,
+		    "experationDate" : "2018-01-17T23:00:00.000Z",
+		    "createdAt" : "2017-12-06T17:03:50.539Z",
+		    "createdBy" : "Fuqf5EfK8xFZGe4w6",
+		    "modifiedAt" : "2018-02-04T15:06:04.224Z",
+		    "modifiedBy" : "Fuqf5EfK8xFZGe4w6",
+		    "ownerId" : "Fuqf5EfK8xFZGe4w6",
+			"didFinishedInteriew": true
+		},
+		{
+		    "_id" : "uW8bKtSr6GrSnzHu6",
+		    "jobDescription" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		    "jobType" : "Android Software Developer",
+		    "jobLocation" : "Sarajevo, Bosna i Hercegovina",
+		    "remoteWork" : false,
+		    "experationDate" : "2018-01-17T23:00:00.000Z",
+		    "createdAt" : "2017-12-06T17:03:50.539Z",
+		    "createdBy" : "Fuqf5EfK8xFZGe4w6",
+		    "modifiedAt" : "2018-02-04T15:06:04.224Z",
+		    "modifiedBy" : "Fuqf5EfK8xFZGe4w6",
+		    "ownerId" : "Fuqf5EfK8xFZGe4w6",
+			"didFinishedInteriew": false
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "websocket_test",
+  "version": "1.0",
+  "description": "websocket test with node/express for react native app",
+  "main": "index.js",
+  "author": "nodi",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1",
+    "ws": "^4.0.0"
+  }
+}
